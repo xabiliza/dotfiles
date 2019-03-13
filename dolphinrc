@@ -1,0 +1,75 @@
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAC4AAAD0fwCAAAAAfsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAA/////wAAACIBAAADAAAAAQAAALgAAAP3/AIAAAAC+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAAAAAD9wAAAHIBAAAD+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAAAD/////AAAAIgEAAAMAAAADAAAAAAAAAAD8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAA/////wAAAEQBAAADAAAGkAAAA/cAAAAEAAAABAAAAAgAAAAI/AAAAAIAAAAAAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAwAAAAD/////AAAAAAAAAAAAAAACAAAAAA==
+Window-Maximized 1080x1920=true
+
+[CompactMode]
+FontWeight=50
+
+[Desktop Entry]
+DefaultProfile=
+
+[DetailsMode]
+FontWeight=50
+PreviewSize=112
+
+[DownloadDialog Settings]
+Height 1080=510
+Width 1920=700
+
+[Favorite Profiles]
+Favorites=
+
+[General]
+GlobalViewProps=true
+HomeUrl=/media/datos/pelikulak/bideoak
+LockPanels=false
+ShowCopyMoveMenu=true
+SortingChoice=CaseInsensitiveSorting
+SplitView=true
+Version=200
+ViewPropsTimestamp=2018,8,21,8,9,14
+
+[IconsMode]
+FontWeight=50
+PreviewSize=112
+
+[KPropertiesDialog]
+Height 1080=464
+Width 1920=418
+
+[MainWindow]
+Height 1080=1015
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAwAAAAAAAAB6AAAD9/wCAAAAAfsAAAAWAGYAbwBsAGQAZQByAHMARABvAGMAawAAAAAAAAAD9wAAACIBAAADAAAAAQAAAPAAAAP3/AIAAAAC+wAAABQAcABsAGEAYwBlAHMARABvAGMAawEAAAAAAAAD9wAAAHIBAAAD+wAAABAAaQBuAGYAbwBEAG8AYwBrAAAAArEAAAFGAAAAIgEAAAMAAAADAAAHUAAAAMb8AQAAAAH7AAAAGAB0AGUAcgBtAGkAbgBhAGwARABvAGMAawAAAAAwAAAHUAAAAEQBAAADAAAGXwAAA/cAAAAEAAAABAAAAAgAAAAI/AAAAAIAAAAAAAAAAQAAABYAbQBhAGkAbgBUAG8AbwBsAEIAYQByAwAAAAD/////AAAAAAAAAAAAAAACAAAAAA==
+ToolBarsMovable=Disabled
+Width 1920=1920
+Window-Maximized 1080x1920=true
+
+[MainWindow][Toolbar mainToolBar]
+IconSize=32
+ToolButtonStyle=IconOnly
+
+[Notification Messages]
+ConfirmDelete=true
+ConfirmEmptyTrash=true
+
+[Open-with settings]
+CompletionMode=1
+History=
+
+[PreviewSettings]
+Plugins=audiothumbnail,comicbookthumbnail,djvuthumbnail,exrthumbnail,directorythumbnail,fontthumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,mltpreview,windowsexethumbnail,windowsimagethumbnail,gsthumbnail,rawthumbnail,svgthumbnail,ffmpegthumbs
+
+[Search]
+ShowFacetsWidget=true
+
+[SettingsDialog]
+Height 1080=457
+Width 1920=545
+
+[Toolbar mainToolBar]
+IconSize=32
+ToolButtonStyle=IconOnly
+
+[kuick-copy]
+Paths[$e]=$HOME/Dropbox/dropbox-slimbook/BTT

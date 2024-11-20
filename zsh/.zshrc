@@ -77,8 +77,10 @@ alias docker-compose='sudo docker compose'
 alias ls='exa'
 alias ddo='docker compose down'
 alias dca='docker-compose -f docker-compose.yml -f docker-compose.caddy.yml up -d'
+alias dtra='docker-compose -f docker-compose.yml -f docker-compose.traefik.yml up -d'
 alias dup='docker compose up -d'
 alias dlo='docker compose logs -f'
+#alias cat='batcat'
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
